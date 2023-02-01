@@ -28,7 +28,7 @@ cinnamon
 
 #+caption: gnome
 #+attr_html: :alt gnome :align right
-[[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/gnome-desktop.webp]]
+[[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/gnome.jpg]]
 
 gnome
 
@@ -40,7 +40,7 @@ kde
 
 #+caption: xfce
 #+attr_html: :alt cinnamon :align right
-[[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/xfce.webp]]
+[[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/xfce.png]]
 
 xfce
 
