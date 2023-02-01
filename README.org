@@ -11,13 +11,38 @@
 عکس آقای استالمن و ژست دختر کشش.
 
 #+caption: torvalds
-#+attr_html: :alt torvalds :title Desktop Scrot :align right
+#+attr_html: :alt torvalds :align right
 [[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/torvalds.jpg]]
 
 عکس آقای توروالدز در دوران طفولیت.
 
 * قدم اول
 طبق طبیعتی که این پروژه داره و نرم‌افزار آزاد هست، یه دو راهی که چه عرض کنم، هزار راهی اول کار جلوی کاربر هست که کدوم توزیع رو نصب کنه. یه کلیتی از توزیع های لینوکس رو میشه توی سایت [[https://distrowatch.com/][distrowatch]] ببینید. توصیه من اینه که توزیع ها مخصوصا توزیع های just works مثل اوبونتو و لینوکس مینت و پاپ او اس و ... همشون در باطن عین همن و فرقی نداره کدوم رو نصب کنید. مهم محیط میز کاره (Desktop Environment) که پروژه های متنوعی از جمله gnome، kde، xfce، cinnamon  و تعداد کثیر دیگه ای موجوده. این اسامی که گفتم رو جستجو کنید محیطش رو ببینید. ببینید با کدوم بیشتر حال می‌کنید و نسخه از توزیع‌های بالا که گفتم  رو با اون محیط نصب کنید. مثلا kubuntu اوبونتو همراه با kde هست. نصب هم ویدیو های زیادی روی اینترنت هست که نصبش رو آموزش میدن و به مراتب از نصب ویندوز ساده‌تره با یه جستجوی ساده مثل "install filan distro on virtualbox" می‌تونید یاد بگیرید و انجام بدید و برید سراغ مراحل بعد و آموزش استفاده. چون اوبونتو پر نصب ترین توزیعه در ادامه بیشتر توضیحاتی که می‌دم در محیط اوبونتو خواهد بود ولی با یه سری تغییرات یا حتی بدون تغییرات قابل تعمیم به سایر توزیع هاست.
+* چند نما از محیط‌های مختلف میز کار
+
+#+caption: cinnamon
+#+attr_html: :alt cinnamon :align right
+[[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/cinnamon-desktop.png]]
+
+cinnamon
+
+#+caption: gnome
+#+attr_html: :alt gnome :align right
+[[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/gnome.jpg]]
+gnome
+
+#+caption: kde
+#+attr_html: :alt cinnamon :align right
+[[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/kde-plasma-desktop.jpg]]
+
+kde
+
+#+caption: xfce
+#+attr_html: :alt cinnamon :align right
+[[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/xfce.png]]
+
+xfce
+
 * قدم صفرم
 تو این هدینگ می خوام دلایلی رو بگم که یک نفر نباید لینوکس بریزه:
 - خیلی به گیمینگ می‌پردازه. (البته آپشن ماشین مجازی رو داره یا می تونه رو یه لپتاپ دیگه ای بریزه)، شرکت valve خیلی داره رو گیمینگ رو لینوکس سرمایه گذاری می کنه و سرویس هایی مثل steam و lutris و تعداد کثیری بازی موجوده ولی بازم هنوز با ویندوز فاصله معنی داری داره.
