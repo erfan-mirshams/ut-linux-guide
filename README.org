@@ -4,14 +4,16 @@
 
 * مقدمه + تاریخچه ریز
 آقای ریچارد استالمن که سیستم‌عامل GNU رو در سال ۱۹۸۵ منتشر کرد که هدف اصلی این پروژه گسترش سیستم‌عاملی در راستای ارزش‌های نرم‌افزار آزاد و احترام به حریم خصوصی و آزادی کاربر بود. ایشون بنیاد نرم افزار آزاد افتتاح کرده و به علاوه پروژه‌هایی از قبیل GCC و Emacs هم انجام داده. سیستم عامل گنو همون طور که از اسم مخففش پیداست (Gnu's not unix) سیستم‌عاملی مشابه سیستم عامل unix هست و از فلسفه های مشابه اون در منطق اجرای برنامه ها پیروی می‌کنه. در سال ۱۹۹۱ هم یک دانشجوی فنلاندی در زمان آقای لینوس توروالدز که الان پشت پروژه هایی همچون گیت هم هست، از ابزارهای توسعه نرم‌افزار گنو استفاده کرد و کرنل لینوکس رو توسعه داد و لایسنس آزاد هم براش قرار داد. بعد از این قضیه این کرنل در پروژه گنو به عنوان کرنل اصلی سیستم‌عامل استفاده شد و امروزه به‌خاطر راحتی و خوش‌اسم بودن به سیستم عامل گنو/لینوکس بیشتر با اسم لینوکس اشاره میشه.
-#+CAPTION: stallman
-#+ATTR_HTML: :alt stallman :title Desktop Scrot :align right :width 100px
+#+caption: stallman
+#+attr_html: :alt stallman :align right :width="100px"
+#+attr_org: :width 100
 [[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/stallman.jpg]]
 
 عکس آقای استالمن و ژست دختر کشش.
 
-#+CAPTION: torvalds
-#+ATTR_HTML: :alt torvalds :title Desktop Scrot :align right :width 100px
+#+caption: torvalds
+#+attr_html: :alt torvalds :title Desktop Scrot :align right :width="100px"
+#+attr_org: :width 100
 [[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/torvalds.jpg]]
 
 عکس آقای توروالدز در دوران طفولیت.
