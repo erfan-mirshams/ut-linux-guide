@@ -152,7 +152,7 @@ apt list --installed
 
 #+caption: synaptic
 #+attr_html: :alt synaptic :align right
-[[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/synaptic.png]]
+[[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/synaptic.jpg]]
 
 نمایی از Synaptic UI
 
