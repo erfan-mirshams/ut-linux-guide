@@ -149,6 +149,14 @@ apt list --installed
 روی سیستم‌هایی که از apt استفاده میکنن synaptic package manager هم موجوده که یه چیزی بین حالت گرافیکی و حالت CLI هست. از اون هم برای حذف و اضافه نرم‌افزار می تونید استفاده کنید. توی لیست نرم‌افزار هاتون Synaptic باید موجود باشه.
 
 * نصب VSCode
+
+
+#+caption: synaptic
+#+attr_html: :alt synaptic :align right
+[[https://github.com/erfan-mirshams/ut-linux-guide/blob/master/src/synaptic.png]]
+
+نمایی از Synaptic UI
+
 به دلایلی که نمی‌دونم چرا VSCode توی مخازن اصلی اوبونتو و دبیان موجود نیست. برای همین برای نصبش یه راه روی اوبونتو پیشنهاد می‌دم. (تنها راه نیست)
 ترمینال رو باز کنید و دستور زیر رو بزنید.
 #+begin_src shell
